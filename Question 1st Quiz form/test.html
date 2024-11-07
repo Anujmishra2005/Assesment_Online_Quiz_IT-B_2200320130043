@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Quiz</title>
+  <link rel="stylesheet" href="../Question 1st Quiz form/test.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Online Quiz</h1>
+    <div id="question-container">
+      <p id="question"></p>
+      <div id="options">
+        <label><input type="radio" name="option" value="0"> <span></span></label>
+        <label><input type="radio" name="option" value="1"> <span></span></label>
+        <label><input type="radio" name="option" value="2"> <span></span></label>
+        <label><input type="radio" name="option" value="3"> <span></span></label>
+      </div>
+    </div>
+    <div class="navigation">
+      <button id="prev-btn">Previous</button>
+      <button id="next-btn">Next</button>
+      <button id="submit-btn">Submit</button>
+    </div>
+    <div id="result-container" class="hidden">
+      <h2>Your Score: <span id="score"></span>%</h2>
+    </div>
+  </div>
+  <script src="../Question 1st Quiz form/test.js"></script>
+</body>
+</html>
