@@ -1,8 +1,10 @@
-Certainly! Below is a **README** format that you can use to explain your project in a structured and detailed manner for your GitHub repository. This README file will include sections for project description, setup instructions, and information about each quiz format you created.
 
----
+# Assesment_Online_Quiz_IT-B_2200320130043 (Anuj Mishra)
 
-# Interactive Quiz Application
+So ihave Implemented it Dividing it into 3 parts 
+1. Question 1st Quiz form                      [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%201st%20Quiz%20form]
+2. Question 2nd MERN Stack Quiz                [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%202nd%20MERN%20Stack%20Quiz]
+3. Question 3rd Interactive Quiz               [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%203rd%20Interactive%20Quiz]
 
 ## Overview
 
@@ -26,6 +28,7 @@ The app features the following functionality:
 - [Quiz Formats](#quiz-formats)
 - [Contributing](#contributing)
 - [License](#license)
+- [Outputs](#Outputs)
 
 ## Tech Stack
 
@@ -47,12 +50,12 @@ To run the quiz application locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactive-quiz.git
+   git clone https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd interactive-quiz
+   cd Assesment_Online_Quiz_IT-B_2200320130043
    ```
 
 3. Open the `index.html` file in your browser to view the quiz.
@@ -147,6 +150,20 @@ Please ensure your code follows the existing style conventions and includes rele
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust the sections and details as per your exact project structure and setup! This README format covers essential components to make the repository understandable for others who may want to view, clone, or contribute to your project.
+## Outputs
+1. Question 1st Quiz form                      [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%201st%20Quiz%20form]
+
+![First Question Output](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/blob/main/Output%20Images/Qusion%201st%20output.png)
+
+
+2. Question 2nd MERN Stack Quiz                [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%202nd%20MERN%20Stack%20Quiz]
+
+![Second Question Output](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/blob/main/Output%20Images/Question%202nd%20Output.png)
+
+
+3. Question 3rd Interactive Quiz               [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%203rd%20Interactive%20Quiz]
+
+![Third Question Output](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/blob/main/Output%20Images/Question%203rd%20Output.png)
+
+---
