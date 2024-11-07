@@ -3,8 +3,9 @@
 
 So ihave Implemented it Dividing it into 3 parts 
 1. [Question 1st Quiz form](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%201st%20Quiz%20form)
-3. Question 2nd MERN Stack Quiz                [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%202nd%20MERN%20Stack%20Quiz]
-4. Question 3rd Interactive Quiz               [https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%203rd%20Interactive%20Quiz]
+2. [Question 2nd MERN Stack Quiz](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%202nd%20MERN%20Stack%20Quiz)
+3. [Question 3rd Interactive Quiz](https://github.com/Anujmishra2005/Assesment_Online_Quiz_IT-B_2200320130043/tree/main/Question%203rd%20Interactive%20Quiz)
+
 
 ## Overview
 
